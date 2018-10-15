@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center
+
+}
+
+form{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+input{
+    margin: 10px 0 10px 0
+}
+
